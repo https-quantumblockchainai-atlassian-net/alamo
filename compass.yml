@@ -1,0 +1,14 @@
+name: alamo
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/679a1302-333c-440c-925e-f4228ee717bb
+description: 'Alamo: Explicit and implicit solvers for solid mechanics with AMR'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:c++
+  - source:github
+customFields: null
