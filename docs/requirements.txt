@@ -5,3 +5,4 @@ linuxdoc
 sphinx_design
 sphinx_copybutton
 sphinxcontrib-bibtex
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
